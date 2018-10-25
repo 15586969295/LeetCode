@@ -10,5 +10,3 @@ class Solution(object):
         :rtype: bool
         """
         return sorted("".join(s)) == sorted("".join(t))
-
-a = 1
