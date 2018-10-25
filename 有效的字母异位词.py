@@ -11,3 +11,4 @@ class Solution(object):
         """
         return sorted("".join(s)) == sorted("".join(t))
 
+a = 1
